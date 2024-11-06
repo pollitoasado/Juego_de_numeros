@@ -1,0 +1,48 @@
+{
+  "numeros": [
+    {
+      "numero": 0,
+      "respuesta": "cero"
+    },
+    {
+      "numero": 1,
+      "respuesta": "uno"
+    },
+    {
+      "numero": 2,
+      "respuesta": "dos"
+    },
+    {
+      "numero": 3,
+      "respuesta": "tres"
+    },
+    {
+      "numero": 4,
+      "respuesta": "cuatro"
+    },
+    {
+      "numero": 5,
+      "respuesta": "cinco"
+    },
+    {
+      "numero": 6,
+      "respuesta": "seis"
+    },
+    {
+      "numero": 7,
+      "respuesta": "siete"
+    },
+    {
+      "numero": 8,
+      "respuesta": "ocho"
+    },
+    {
+      "numero": 9,
+      "respuesta": "nueve"
+    },
+    {
+      "numero": 10,
+      "respuesta": "diez"
+    }
+  ]
+}

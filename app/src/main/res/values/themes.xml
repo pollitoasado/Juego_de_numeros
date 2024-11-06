@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- Base application theme. -->
+<style name="Base.Theme.ProyectoSemestral" parent="Theme.Material3.DayNight.NoActionBar">
+    <item name="colorPrimary">#d940b3</item>
+    <item name="colorSecondary">#b380cc</item>
+</style>
+
+<style name="Theme.ProyectoSemestral" parent="Base.Theme.ProyectoSemestral" />
+
+<!-- Estilo para el botón primario -->
+<style name="Button.Primary" parent="Widget.Material3.Button">
+    <item name="backgroundColor">#d940b3</item>
+    <item name="android:textColor">#FFFFFF</item>
+</style>
+
+<!-- Estilo para el botón secundario -->
+<style name="Button.Secondary" parent="Widget.Material3.Button">
+    <item name="backgroundColor">#b380cc</item>
+    <item name="android:textColor">#FFFFFF</item>
+</style>
+
+<!-- Estilo para el botón de advertencia -->
+<style name="Button.Warning" parent="Widget.Material3.Button">
+    <item name="backgroundColor">#FF5733</item>
+    <item name="android:textColor">#FFFFFF</item>
+</style>
+
+<!-- Estilo para el botón de éxito -->
+<style name="Button.Success" parent="Widget.Material3.Button">
+    <item name="backgroundColor">#4CAF50</item> <!-- Verde -->
+    <item name="android:textColor">#FFFFFF</item>
+</style>
+</resources>
